@@ -5,7 +5,7 @@ const Single = () => {
         <div className='single-photo'>
             I'm single
         </div>
-    )
-}
+    );
+};
 
-export default Single
+export default Single;
